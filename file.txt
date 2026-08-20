@@ -1,0 +1,6 @@
+HI 
+I am from python folder
+
+i am learning file reading writting
+
+file handling in python
